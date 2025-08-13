@@ -1,7 +1,7 @@
 import streamlit as st
 from groq import Groq
 
-st.title("Groq Chatbot with Your API Key")
+st.title("Khaled ghalwash chat bot")
 
 # Your API key (not secure for public repos!)
 API_KEY = "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"
